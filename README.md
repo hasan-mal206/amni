@@ -79,17 +79,7 @@ Microservices • System Design • Docker & CI/CD • Event-driven Systems (Kaf
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mujahid-islame&theme=react-dark" />
 </p>
 
-<!-- ===================== SNAKE CONTRIBUTION ===================== -->
 
-<h2 align="center">🐍 Contribution Snake</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-</p>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="18" />
-
-<h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
 <a href="https://facebook.com/mujahid.islam.380096"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
